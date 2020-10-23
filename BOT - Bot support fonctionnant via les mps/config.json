@@ -1,0 +1,6 @@
+{ 
+    "token"  : "TOKEN DU BOT",
+    "prefix" : "!",
+    "serverID" : "723556707661250642",
+    "ModeratorRoles" : ["🔏 | Staff"]
+}
